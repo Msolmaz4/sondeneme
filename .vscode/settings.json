@@ -1,0 +1,4 @@
+git {
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true
+}
